@@ -35,8 +35,8 @@ https://drive.google.com/file/d/1yx54kgvh69C7UkmufFtdPu6JHTk_muHv/view?usp=drive
 Hash - SHA256  
 984D980066149BB97960C9AC49C6577C70AF6168A7EADB484128AB4B5C3C0CBB  
 
-Enlace de descarga de Ova de The Sinner demostración
-https://drive.google.com/file/d/1vwM6qYxYu7GJQhIVxgyhisyQClwGjMdX/view?usp=drive_link
+Enlace de descarga de Ova de The Sinner demostración  
+https://drive.google.com/file/d/1vwM6qYxYu7GJQhIVxgyhisyQClwGjMdX/view?usp=drive_link  
   
 Requisitos de Hardware  
   
